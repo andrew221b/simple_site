@@ -45,7 +45,7 @@ a {
 .header-navbar__list {
     list-style-type: none;
     display: flex;
-    column-gap: 42px;
+    column-gap: 43px;
     flex-wrap: wrap;
 }
 
@@ -78,7 +78,7 @@ a {
 }
 
 .header-content__action {
-    margin-top: 57px;
+    margin-top: 55px;
 }
 
 .header-content__link {
@@ -96,27 +96,43 @@ a {
 
 .main {}
 
-.about {}
+.about {
+    padding: 112px 0;
+    background-color: var(--bg-color-light);
+}
 
-.container-small {}
+.container--small {
+    max-width: 540px;
+}
 
-.about__title {}
+.about__title {
+font-weight: 500;
+font-size: 2em;
+line-height: 38px;
+text-align: center;
+margin-bottom: 38px;
+}
 
-.about__description {}
+.about__description {
+text-align: center;
+color: var(--color-description);
+}
 
-.achievements {}
+.experience {
+}
 
-.achievements-list {}
-
-.achievements-list__item {}
-
-.achievements-list__logo {}
-
-.achievements-list__stats {}
-
-.achievements-list__count {}
-
-.achievements-list__description {}
+.container--experience {
+}
+.experience-item {
+}
+.experience-item__logo {
+}
+.experience-item__stats {
+}
+.experience-item__count {
+}
+.experience-item__description {
+}
 
 .media {}
 
