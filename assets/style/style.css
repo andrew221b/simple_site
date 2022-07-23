@@ -1,0 +1,72 @@
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+}
+.container {
+}
+.header-navbar {
+}
+.header-navbar__list {
+}
+.header-navbar__item {
+}
+.header-navbar__link {
+}
+.active {
+}
+.header-content {
+}
+.header-content__title {
+}
+.header-content__description {
+}
+.header-content__action {
+}
+.header-content__link {
+}
+.main {
+}
+.about {
+}
+.container-small {
+}
+.about__title {
+}
+.about__description {
+}
+.achievements {
+}
+.achievements-list {
+}
+.achievements-list__item {
+}
+.achievements-list__logo {
+}
+.achievements-list__stats {
+}
+.achievements-list__count {
+}
+.achievements-list__description {
+}
+.media {
+}
+.media__title {
+}
+.media__description {
+}
+.media__video {
+}
+.footer {
+}
+.footer-item {
+}
+.footer-item__name {
+}
+.footer-item__copyright {
+}
