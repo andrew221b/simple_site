@@ -103,16 +103,14 @@ a {
     max-width: 540px;
 }
 
-.about__title,
-.media__title {
+.section__title {
     font-weight: 500;
     font-size: 32px;
     line-height: 38px;
     text-align: center;
 }
 
-.about__description,
-.media__description {
+.section__description {
     text-align: center;
     color: var(--color-description);
     padding-top: 38px;
